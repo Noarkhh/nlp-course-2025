@@ -1,0 +1,280 @@
+Model,Prompt,Odpowiedź,Temperatura
+SpeakLeash/bielik-1.5b-v3.0-instruct:Q8_0,W którym roku Polska przystąpiła do Unii Europejskiej i kto był wtedy prezydentem Polski?,Polska przystąpiła do Unii Europejskiej w 2004 roku. Wtedy prezydentem Polski był Aleksander Kwaśniewski.,0.2
+SpeakLeash/bielik-1.5b-v3.0-instruct:Q8_0,W którym roku Polska przystąpiła do Unii Europejskiej i kto był wtedy prezydentem Polski?,"A) 2004, Lech Kaczyński
+B) 2007, Lech Kaczyński
+C) 2 018, Andrzej Duda
+D) 2019, Andrzej Duda
+**Zadanie:**",1.0
+SpeakLeash/bielik-1.5b-v3.0-instruct:Q8_0,"Wyjaśnij w dwóch zdaniach, czym jest inflacja i podaj jeden konkretny przykład, jak wpływa ona na codzienne zakupy.","Inflacja to zjawisko ekonomiczne polegające na ogólnym wzroście cen towarów i usług w gospodarce. Oznacza to, że za tę samą ilość pieniędzy można kupić mniej produktów niż wcześniej. Jest to spowodowane wzrostem podaży pieniądza lub spadkiem siły nabywczej waluty.
+
+Przykładem inflacji może być sytuacja, gdy ceny chleba rosną z 2 zł do 3 zł w ciągu roku. Oznacza to, że za tę samą kwotę pieniędzy (np. 100 zł) można kupić mniej chleba niż wcześniej (np. 65 sztuk zamiast 85).",0.2
+SpeakLeash/bielik-1.5b-v3.0-instruct:Q8_0,"Wyjaśnij w dwóch zdaniach, czym jest inflacja i podaj jeden konkretny przykład, jak wpływa ona na codzienne zakupy.","Inflacja to proces gospodarczy, w którym ogólna cena towarów i usług wzrasta w dłuższym okresie czasu. Jest to wskaźnik pokazujący, jak szybko i o ile ceny produktów zmieniają się w czasie.
+
+Przykładowo, jeśli ceny za kawę wzrosły z 8 zł do 10,50 zł na minutę przez rok (co oznacza wzrost średnioroczny o około 25%), możemy powiedzieć, że inflacja dotyka naszego codziennego życia - płacimy więcej za drobne zakupy, takie jak kawa czy napoje w automatach.",1.0
+SpeakLeash/bielik-1.5b-v3.0-instruct:Q8_0,"Wymyśl nazwę dla nowej kawiarni w Warszawie, która specjalizuje się w kawie i starych książkach. Podaj jedno zdanie uzasadnienia dla tej nazwy.","Nazwa: ""Kawiarnia Literacka""
+
+Uzasadnienie: Kawiarnia Literacka to nazwa, która łączy w sobie dwa kluczowe elementy charakterystyczne dla tej kawiarni - kawę i książki. Kawa jest nieodłącznym elementem wielu miejsc spotkań, a książki są źródłem wiedzy i inspiracji. Nazwa ta sugeruje, że kawiarnia będzie miejscem, gdzie można nie tylko napić się dobrej kawy, ale także zanurzyć się w świecie literatury.",0.2
+SpeakLeash/bielik-1.5b-v3.0-instruct:Q8_0,"Wymyśl nazwę dla nowej kawiarni w Warszawie, która specjalizuje się w kawie i starych książkach. Podaj jedno zdanie uzasadnienia dla tej nazwy.","Interpretacja: ""Specjalizacja w kawie"" sugeruje, że kawiarnia będzie oferować wysokiej jakości kawę. ""Starych książkach"" wskazuje na zainteresowanie klientów czytaniem i bibliotekami. Możesz połączyć te dwa elementy, tworząc nazwę, która jednocześnie podkreśla obie cechy kawiarni.
+
+Moja propozycja nazwy dla nowej kawiarni to ""Kawa w Bibliotece"".
+
+Uzasadnienie:
+- Kawa w Bibliotece łączy dwie kluczowe funkcje kawiarni - serwowanie kawy oraz możliwość czytania książek.
+- Nazwa sugeruje połączenie komfortu picia kawy z doświadczeniem biblioteki, co może przyciągnąć miłośników literatury i relaksujących chwil.",1.0
+SpeakLeash/bielik-1.5b-v3.0-instruct:Q8_0,Przetłumacz na angielski: Mój pociąg był opóźniony o dwadzieścia minut z powodu awarii.,"Oryginalny tekst w języku polskim:
+
+Mój pociąg był opóźniony o dwadzieścia minut z powodu awarii.
+
+Tłumaczenie na język angielski:
+
+My train was delayed by 20 minutes due to an emergency.",0.2
+SpeakLeash/bielik-1.5b-v3.0-instruct:Q8_0,Przetłumacz na angielski: Mój pociąg był opóźniony o dwadzieścia minut z powodu awarii.,"Słowa kluczowe i ich odpowiedniki w języku polskim
+- **przyjazd**: „departure""
+- **powrót**: „return""
+- **opuścić stację**: „leave the station""
+- **zatrzymaj się**: „stop""
+- **przejazd/odjazd**: „train ride""
+- **awaria**: “failure""
+- **zagubić**: “lose""
+- **odłóżmy się**: “pass""
+- **do stacji**: “to the station""
+- **prognozowa**: “prognostic""
+- **przerwana**: “interrupted""
+- **nieoczekiwane**: ""undesired""
+- **wyjaśniać**: ""explain""
+- **przypomnieć**: ""remind""
+- **zareagować**: ""react""
+- **spotkać**: ""meet""
+- **uczestniczyć w podróży**: ""take part in the journey""
+- **nieznajod**: ""unable to find""
+- **pasażerowie**: ""passengers""
+- **awarie**: ""failures""
+- **zatrzymać**: ""stall""
+- **powrót/podróż**: ""return journey""
+- **nieoczekiwane zakłócenie**: “undesired interruption""
+- **przejazd/odjazd pociągu**: ""train ride""
+- **pociąg**: ""train""
+- **awaria**: ""failure""
+- **opuścić stację**: “leave the station""
+- **zagubić się**: “lose oneself""
+- **do stacji**: “to the station""
+- **awaria**: “failure""
+- **opuścić stację**: “leave the station""
+- **nieoczekiwane przerwanie podróży**: ""undesired delays in travel""
+- **prognoza**: ""prognostic""
+- **przerwana podróż**: “interrupted journey""
+- **zatrzymać się**: “stall""
+- **oczekiwać**: ""expect""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pociąg opóźniony**: “delayed train""
+- **zagubić się na stacji**: ""lose oneself at the station""
+- **awaria awarii**: ""failures""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zatrzymać pociąg**: “stall a train""
+- **oczekiwać podróż**: ""wait for a journey""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pociąg opóźniony**: “delayed train""
+- **opuścić stację**: “leave the station""
+- **zatrzymać się**: “stall""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **awaria awarii**: ""failures""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **pociąg opóźniony**: “delayed train""
+- **przejazd/odjazd**: ""train ride""
+- **opuścić stację**: “leave the station""
+- **zagubić się**: ""lose oneself""
+- **prognoza**: ""prognostic""
+- **nieznajod podróży**: ""unable to find a journey""
+- **pociąg**: ""train""
+- **awaria awarii**: ""failures""
+- **zagubić się na stacji**: “lose oneself at the station""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria awarii**: ""failures""
+- **pociąg opóźniony**: “delayed train""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zagubić się**: ""lose oneself""
+- **prognozy**: ""prognoses""
+- **zatrzymać się**: “stall""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **pociąg opóźniony**: “delayed train""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **awaria awarii**: ""failures""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pociąg opóźniony**: “delayed train""
+- **przejazd/odjazd**: „train ride""
+- **opuścić stację**: “leave the station""
+- **zagubić się**: ""lose oneself""
+- **prognozy**: ""prognoses""
+- **zatrzymać się**: “stall""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **pociąg opóźniony**: “delayed train""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zagubić się**: ""lose oneself""
+- **prognozy**: ""prognoses""
+- **zatrzymać się**: “stall""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **pociąg opóźniony**: “delayed train""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **awaria awarii**: ""failures""
+- **zagubić się na stacji**: “lose oneself at the station""
+- **pociąg opóźniony**: “delayed train""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pociąg opóźniony**: “delayed train""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zatrzymać pociąg**: “stall a train""
+- **nieoczekiwane zakłócenie podróży**: ""undesired delays in travel""
+- **awaria pociągu**: “train failure""
+- **pasażerowie podróżujący pociągiem**: ""train passengers""
+- **zatrzymać pociąg**: “stall a train""",1.0
+SpeakLeash/bielik-1.5b-v3.0-instruct:Q8_0,"Z tekstu: 'Faktura nr 45/2023 dla firmy 'ABC-Pol' na kwotę 1500.50 PLN' wyodrębnij {numer, klient, kwota, waluta} i zapisz wynik ekstrakcji w formacie JSON.","{""number"": ""45/2023"", ""client"": ""ABC-Pol"", ""amount"": 1500.5, ""currency"": ""PLN""}",0.2
+SpeakLeash/bielik-1.5b-v3.0-instruct:Q8_0,"Z tekstu: 'Faktura nr 45/2023 dla firmy 'ABC-Pol' na kwotę 1500.50 PLN' wyodrębnij {numer, klient, kwota, waluta} i zapisz wynik ekstrakcji w formacie JSON.","{""number"": ""45/2023"", 
+   ""klient"": ""ABC-Pol"", 
+   ""kwota"": ""1500.5"", 
+   ""waluta"": ""PLN""}",1.0
+SpeakLeash/bielik-1.5b-v3.0-instruct:Q8_0,"Zdanie: 'Film był trochę przydługi, ale scenografia robiła wrażenie.' — pozytywny / negatywny / neutralny i dlaczego?","Zdanie: 'Film był trochę przydługi, ale scenografia robiła wrażenie.' — pozytywny / negatywny / neutralny i dlaczego?",0.2
+SpeakLeash/bielik-1.5b-v3.0-instruct:Q8_0,"Zdanie: 'Film był trochę przydługi, ale scenografia robiła wrażenie.' — pozytywny / negatywny / neutralny i dlaczego?","Scenariusz: 1974
+
+Odpowiedź: Negatywny.
+
+Alternatywna odpowiedź:Negatywny.
+
+Punkty:
+
+- Ocena subiektywna/obiektywna?
+   - Obiektywny.",1.0
+SpeakLeash/bielik-7b-instruct-v0.1-gguf:Q8_0,W którym roku Polska przystąpiła do Unii Europejskiej i kto był wtedy prezydentem Polski?,"<s>  Polska przystąpiła do Unii Europejskiej w 2004 r. W tym samym roku, konkretnie 9 maja, Lech Kaczyński objął urząd Prezydenta RP.",0.2
+SpeakLeash/bielik-7b-instruct-v0.1-gguf:Q8_0,W którym roku Polska przystąpiła do Unii Europejskiej i kto był wtedy prezydentem Polski?,"<s>  Polska przystąpiła do Unii Europejskiej 1 maja 2004 r. W momencie akcesji premierem Polski była Leszek Miller, a prezydentem Polski Aleksander Kwaśniewski.",1.0
+SpeakLeash/bielik-7b-instruct-v0.1-gguf:Q8_0,"Wyjaśnij w dwóch zdaniach, czym jest inflacja i podaj jeden konkretny przykład, jak wpływa ona na codzienne zakupy.","Inflacja to stały wzrost cen dóbr i usług w gospodarce, co oznacza, że konsumenci muszą płacić więcej za swoje towary. Przykładowo, podniesienie cen paliwa może sprawić, że dojazdy do pracy, sklepów czy na wakacje będą droższe, zmuszając ludzi do zmiany swoich nawyków transportowych lub poszukiwania alternatywnych środków transportu.",0.2
+SpeakLeash/bielik-7b-instruct-v0.1-gguf:Q8_0,"Wyjaśnij w dwóch zdaniach, czym jest inflacja i podaj jeden konkretny przykład, jak wpływa ona na codzienne zakupy.","Inflacja to stały wzrost przeciętnego poziomu cen dóbr i usług w gospodarce. As an example, if food prices increase across the board, your monthly grocery bill will also rise, making it more expensive to purchase food for daily use.",1.0
+SpeakLeash/bielik-7b-instruct-v0.1-gguf:Q8_0,"Wymyśl nazwę dla nowej kawiarni w Warszawie, która specjalizuje się w kawie i starych książkach. Podaj jedno zdanie uzasadnienia dla tej nazwy.","""Caffé du Monde des Livres"" - This name combines the allure of a classic French cafe with the charm of an antique bookstore, evoking a cozy atmosphere where patrons can enjoy their coffee while surrounded by the wisdom and stories contained within old books.",0.2
+SpeakLeash/bielik-7b-instruct-v0.1-gguf:Q8_0,"Wymyśl nazwę dla nowej kawiarni w Warszawie, która specjalizuje się w kawie i starych książkach. Podaj jedno zdanie uzasadnienia dla tej nazwy.","""Caffè du Bonjour: Where Spices of Java Meet the wisdom of Old Tomes""
+
+Uzasadnienie: The name Caffè du Bonjour pays homage to French roots, while also highlighting the unique offerings of kawy and old books. 'Caffè' is a Italian word for coffee or cafe which emphasizes the establishment's specialty in Java's spices, and 'du Bonjour' is a French good morning greeting, suggesting a fresh start with each cup of coffee. The phrase 'Where Spices of Java Meet the wisdom of Old Tomes' refers to the fusion of flavors from different parts of the world (Java being a key region for coffee cultivation) combined with the intellectual and historical depth of old books.",1.0
+SpeakLeash/bielik-7b-instruct-v0.1-gguf:Q8_0,Przetłumacz na angielski: Mój pociąg był opóźniony o dwadzieścia minut z powodu awarii.,My train was delayed by twenty minutes due to a failure.,0.2
+SpeakLeash/bielik-7b-instruct-v0.1-gguf:Q8_0,Przetłumacz na angielski: Mój pociąg był opóźniony o dwadzieścia minut z powodu awarii.,My train was delayed by twenty minutes due to a breakdown.,1.0
+SpeakLeash/bielik-7b-instruct-v0.1-gguf:Q8_0,"Z tekstu: 'Faktura nr 45/2023 dla firmy 'ABC-Pol' na kwotę 1500.50 PLN' wyodrębnij {numer, klient, kwota, waluta} i zapisz wynik ekstrakcji w formacie JSON.","{
+  ""numer"": ""45"",
+  ""klient"": ""ABC-Pol"",
+  ""kwota"": 1500.50,
+  ""waluta"": ""PLN""
+}",0.2
+SpeakLeash/bielik-7b-instruct-v0.1-gguf:Q8_0,"Z tekstu: 'Faktura nr 45/2023 dla firmy 'ABC-Pol' na kwotę 1500.50 PLN' wyodrębnij {numer, klient, kwota, waluta} i zapisz wynik ekstrakcji w formacie JSON.","{
+  ""number"": ""45"",
+  ""client"": ""ABC-Pol"",
+  ""amount"": 1500.50,
+  ""currency"": ""PLN""
+}",1.0
+SpeakLeash/bielik-7b-instruct-v0.1-gguf:Q8_0,"Zdanie: 'Film był trochę przydługi, ale scenografia robiła wrażenie.' — pozytywny / negatywny / neutralny i dlaczego?","The sentence 'Film był trochę przydługi, ale scenografia robiła wrażenie.' can be seen as having mixed or neutral sentiment.
+
+The negative part of the statement is ""Film był trochę przydługi,"" which implies that the speaker found the film to be too long or possibly boring in some parts. This could be interpreted as a criticism or point of dissatisfaction.
+
+However, the positive or neutral part of the sentence is ""ale scenografia robiła wrażenie."" This suggests that the speaker appreciated the scenography and found it to be impressive or noteworthy. The use of the word 'ale' here might imply a contrast between the two aspects of the film, with the positive aspect potentially balancing out or overcoming the negative aspect in the speaker's mind.
+
+Overall, the statement is a mix of both positive and negative elements, making it a neutral or mixed sentiment. The appreciation for the scenography may have made the long film experience more palatable, but the criticism of the film's length still remains present.",0.2
+SpeakLeash/bielik-7b-instruct-v0.1-gguf:Q8_0,"Zdanie: 'Film był trochę przydługi, ale scenografia robiła wrażenie.' — pozytywny / negatywny / neutralny i dlaczego?","The sentence ""Film był trochę przydługi, ale scenografia robiła wrażenie"" can be interpreted as having a mixed or neutral sentiment.
+
+Positive element: The statement praises the film's set design, saying that it made an impression. This suggests a positive aspect of the film.
+
+Negative element: The statement also comments on the length of the film, calling it ""trochę"" (which implies slightly) too long. This is a negative remark since it indicates dissatisfaction with the pacing or structure of the movie.
+
+The sentence does not express complete dissatisfaction or complete satisfaction, hence it can be classified as neutral or mixed sentiment overall. The viewer finds some elements good but also has a criticism which balances out the positive point.",1.0
